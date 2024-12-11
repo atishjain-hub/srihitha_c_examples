@@ -6,6 +6,7 @@ Author: Atish Jain
 */
 
 # include <stdio.h>
+# include <conio.h>
 int main()//starting point of the program execution
 {
   printf("Welcome to C Programming");
