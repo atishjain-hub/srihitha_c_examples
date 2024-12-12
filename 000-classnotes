@@ -1,0 +1,214 @@
+Day 1:
+Date: 5th Dec 2024
+-------------------
+Year 1 CSE @ NTU(Nanyang technological university) @ Singapore
+Year 1 - 1st Sem finished
+
+Year 1 - 2nd Sem - C & CPP
+----------------------------
+Course: C Programming
+Beginner to Advanced
+Classes: Monday to Friday @ 7 to 8 am IST
+Duration: 40 to 45 days
+
+Trainer: Atish Jain
+Exp: 15+ years
+----------------------------
+Why C?
+How, When, Where
+
+1. The OS X kernel is written mostly in C. Every program and driver in a Mac runs on a C-powered kernel. 
+
+2. Microsoft Windows is primarily written in C and C++
+
+3. The Python interpreter, called CPython, is written in the C programming language. Python borrows some syntax from C, but it uses whitespace to organize code, which makes it easier to read. 
+
+4. "Most of the Software in Tesla cars is C or C++,"
+
+5. "No programming language has come close to C or C++ when it comes to efficiency.
+
+6. If you want to work for companies dealing with hardware such as NASA, SpaceX, Intel, Tesla or Nvidia, forget about the Javascript framework, and aim for C!
+
+URL:
+https://www.switchup.org/blog/to-get-a-job-at-tesla-consider-learning-c-or-c
+
+7. One of the Oldest Language, But still ruling the Industry
+
+8. Microsoft SQL Server is a relational database written in C and C++.
+
+9. Today, most programmers who write device drivers work either in the C or C++ programming languages because they offer excellent access to low-level instructions along with more complex program and data structures.
+
+10. Unix is written primarily in the C programming language. 
+
+Software Companies:
+-------------------
+1. Product Based
+   Google - Google Maps
+   Google - chrome
+   Google - Andoird
+   Microsft - Windows OS, Office 365
+   Facebook, amazon etc
+
+   C, CPP, DS using C, DSA using CPP
+
+2. Service Based
+   Tech Stack - Java stack, Python Stack, MERN Stack
+   Infosys, Wipro, Tech Mahindra etc....
+
+   ICICI --> Infosys
+   Client of Infosys
+
+   Technology & Domain
+   Java         Banking
+
+
+What is Computer?
+
+Input --> Processes --> Output
+
+
+Sequence instructions --> Programming
+
+Programming Language --> Tool ---> to write programs
+
+Communicate --> for performing tasks
+
+Human Communication --> Natural Languages --> English, Telugu, Hindi
+
+Human to Machine Communication --> Programming Languages --> C,CPP,Java,Python etc
+
+Programming = Solving Problems using Computers
+
+
+Steps in programming:
+1. logic
+2. coding
+3. translate (Compiler/interepter)
+4. Execution
+
+Algorithm: Step by Step Approach to solve a Program
+
+Algorithm is Expressed in two ways:
+1. Pseudocode
+2. Flowchart
+
+
+------------------
+Day 2:
+Date: 6th Dec 2024
+-------------------
+Flowchart symbols
+
+Introduction to Flowgorithm
+
+
+-----------------------------
+Day 3:
+Date: 9th Dec 2024
+-----------------------------
+Introduction to C Language
+Writing First Program in C Language - Hello Welcome
+
+-----------------------------
+Day 4:
+Date: 10th Dec 2024
+-----------------------------
+Varaibles, Datatypes and Reading Input
+
+What is Variable?
+name of the memory location
+
+What is datatype?
+specifies what type of data, that a variable will hold
+
+what is byte?
+it is memory measurement unit
+
+What is keyword?
+it is an reserved word, with some specific meaning defined by the 
+language compiler
+
+what is constant?
+something which is fixed, which cannot change is known as constant
+
+ex:
+int age = 20;
+
+int - datatype
+age - variable
+= - assignment operators
+20 - integer constant 
+; - special symbol
+
+
+What is memory?
+it is the place, where data is stored.
+
+What is compiler?
+Compiler is a special software, which translates our source code into machine code
+
+
+-----------------------------
+Day 5:
+Date: 11th Dec 2024
+-----------------------------
+Write a Program to swap the values of two variables A and B.
+
+Mr.Ravi is flying from Rajahmundry to delhi, he got into flight from Rajahmundry Madhurapudi airport, after bording into the flight, the flight attendent/pilot announced that the flyging time to reach delhi is 230 minutes.
+write a c program to convert the the flying time in hours and minutes
+
+Input:
+basic_salary
+allowances
+deductions
+
+Process(logic):
+grosssalary = basic_salary + allowances
+netsalary = grosssalary - deductions
+
+Output:
+grossSalary
+netSalary
+
+Note: Technical Knowledge + Domain Knowledge
+
+
+-----------------------------
+Day 6:
+Date: 12th Dec 2024
+-----------------------------
+Working with Characters
+
+char - %c - 1 character
+
+char gender;
+
+
+
+------------
+Assignments:
+------------
+1.Write a C Program to Display Your Current Address
+2.Write a C Program to read marks of C,Java & Python and calculate total and average 
+Note: total and average varaibes must be declared as real numbers
+
+3. Write a Program to swap the values of two variables A and B without using 3rd varaible.
+4. Write a program to read the temprature in Fahrenheit and convert it 
+   into Celsius.
+   To convert Fahrenheit to Celsius, use the following formula:
+   °C = (°F - 32) × 5/9
+5. WAP to calculate Electricity bill from the input present month and 
+   last month reading.
+   Note: Rate per unit is 2.50
+
+6. Program to calculate gross salary and net salary from the input basic salary, allowances and deductions.
+
+7. Write a Program to read gender of person(m/f) and display the same
+
+8. Write a Program to read full name, gender and city of a person
+   full name - multiple words(first name, middle name and last name) - %[^\n]
+   gender - %c
+   city - %s
+
+9. write a program to display memory occupied by float datatype and float variable
+10. Write a Program to read a character in lowercase and convert into uppercase
