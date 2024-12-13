@@ -183,6 +183,37 @@ char - %c - 1 character
 
 char gender;
 
+-----------------------------
+Day 7:
+Date: 13th Dec 2024
+-----------------------------
+basic datatypes
+1. int
+2. char
+3. float
+4. double
+
+modifiers: are used to apply to datatypes to create additional datatypes
+1.signed
+2.unsigned
+3.short
+4.long
+5.long long
+
+
+unsinged int age;
+signed int balance;
+
+short int x; 
+
+long long int mno;
+
+Escape Sequence Characters:
+--------------------------
+\n - new line
+\t - tab space
+
+
 
 
 ------------
@@ -203,12 +234,12 @@ Note: total and average varaibes must be declared as real numbers
 
 6. Program to calculate gross salary and net salary from the input basic salary, allowances and deductions.
 
-7. Write a Program to read gender of person(m/f) and display the same
 
+7. Write a Program to read gender of person(m/f) and display the same
 8. Write a Program to read full name, gender and city of a person
    full name - multiple words(first name, middle name and last name) - %[^\n]
    gender - %c
    city - %s
-
 9. write a program to display memory occupied by float datatype and float variable
-10. Write a Program to read a character in lowercase and convert into uppercase
+10. Write a Program to read a character in lowercase and convert into uppercasev(using logic)
+11. write a program to convert a character from lowercase to upper case using functions.
