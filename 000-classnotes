@@ -213,8 +213,57 @@ Escape Sequence Characters:
 \n - new line
 \t - tab space
 
+-----------------------------
+Day 8:
+Date: 16th Dec 2024
+-----------------------------
+Garbage value
+Variable declaration
+Variable initialization
+Variable assignment
 
+Control flow statements:
+there are 3 types control flow statements are there
+1. sequence
+2. selection
+3. loops/iteration/repetitions
 
+Selection/Control statements:
+----------------------------
+1. simple if
+
+if <condition>
+ {
+   stmts;
+ }
+
+2. if with else stmt
+
+-----------------------------
+Day 9:
+Date: 17th Dec 2024
+-----------------------------
+Multiple if's
+-------------
+
+if <condition 1>
+  {
+   stmts;
+  }
+else
+    if <condition 2>
+       {
+         stmts;
+       }
+    else
+        if <condition N>
+           {
+            stmts;
+           }
+        else
+           {
+            stmts;
+           }
 
 ------------
 Assignments:
@@ -243,3 +292,40 @@ Note: total and average varaibes must be declared as real numbers
 9. write a program to display memory occupied by float datatype and float variable
 10. Write a Program to read a character in lowercase and convert into uppercasev(using logic)
 11. write a program to convert a character from lowercase to upper case using functions.
+
+12. Write a program to check whether the inputted no is even or odd
+13. WAP to calculate the discount and final amount based upon the data given below :-
+a.	If sales>= 25000 then 10% is allowed other wise 5% discount is allowed.
+
+14. WAP to read present month reading and previous month reading from the user and calculate the electricty bill amount based upon the data given below:
+	  Units Consumed      	Rate
+	   >100             		4.50
+	   <100             		2.80
+15.	WAP to check whether the inputted year is a leap year or not .
+16.	WAP to accept names and ages of two persons and display the elder person.
+      name1, age1
+      name2, age2
+17. WAP to check whether the inputted no is Positive or Negative or Neutral. 
+18. WAP to accept marks of 3 subjects and perform the following:
+       Calculate Total and Average and display the Grade based upon the data given below. 
+       	Average	      Grade
+         Above 90%       A+
+    	   80 – 90         A
+    	   70 – 80         B+
+    	   60 – 70         B
+    	   50 – 60         C
+    	   Below 50        F
+19. WAP to print the discount and the actual amount from the given details.
+         Sales           		Discount
+      	>=25000           	25%
+      	20000 – 25000     	20%
+      	10000 – 20000     	10%
+       	5000 – 10000      	5%
+       	Below 5000        	no discount
+20.  WAP to accept basic salary, allowances, deductions and experience of an 
+     Employee and perform the following -
+     i.	Calculate gross and net salary.
+    ii.	Calculate bonus from experience
+         a.	If experience is >5 years then 3 months net salary is given as bonus
+         b.	If experience is >3 years then 2 months net salary is given as bonus
+         c.	Otherwise 1 month of net salary is given as bonus.
