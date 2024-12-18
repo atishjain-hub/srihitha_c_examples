@@ -265,6 +265,36 @@ else
             stmts;
            }
 
+
+-----------------------------
+Day 10:
+Date: 18th Dec 2024
+-----------------------------
+Nested if's
+-----------
+
+ if<condition 1>
+   if <condition 2>
+      { 
+         stmts;
+      }
+   else
+      {
+         stmts;
+      }   
+ else
+     if<condition 3>
+       {
+         stmts;
+       }
+     else
+      {
+         stmts;
+      }
+
+Write a program to find biggest of 3 nos
+
+
 ------------
 Assignments:
 ------------
