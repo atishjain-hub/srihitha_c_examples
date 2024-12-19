@@ -294,6 +294,11 @@ Nested if's
 
 Write a program to find biggest of 3 nos
 
+-----------------------------
+Day 11:
+Date: 19th Dec 2024
+-----------------------------
+Exammples on conditional statements
 
 ------------
 Assignments:
@@ -359,3 +364,23 @@ a.	If sales>= 25000 then 10% is allowed other wise 5% discount is allowed.
          a.	If experience is >5 years then 3 months net salary is given as bonus
          b.	If experience is >3 years then 2 months net salary is given as bonus
          c.	Otherwise 1 month of net salary is given as bonus.
+
+21.  South central railway gives 50% concession to its passengers those who fulfill the following eligibility criteria.
+   i.Male above 60 years of age
+  ii.Female above 50 years of age
+ iii.Full concession for below 5 years (no ticket is required).
+ 
+  WAP to check if a passenger is eligible for concession based on the above data. 
+
+22.  ABC ltd company sells TV’s to their customers on cash and credit 
+     basis. If the customer pays cash, then 25% of discount is allowed. If a customer buys on credit and paid within 7 days then 15% of discount is allowed else 10% extra is charged. 
+     WAP to generate final bill of a customer.
+
+23.  WAP to prepare electricity bill from the following data
+      Slab  Units consumed         	Domestic        Commercial    
+       1	   <100                 Rs. 100        	Rs.150
+       2    100 – 200             	Rs. 1.50 PU    	Rs.2.50 PU
+       3    200 – 300             	Rs. 3.00 PU     Rs.4.50 PU
+       4    >=300                 	Rs. 5.00 PU     Rs.7.50 PU
+
+24.  WAP to accept marks of c, cpp, java and calculate total, average, class only if the student passes in all the 3 subjects otherwise display the subject in which he is failed and  message as “no grade”.
