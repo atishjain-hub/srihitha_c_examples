@@ -300,6 +300,13 @@ Date: 19th Dec 2024
 -----------------------------
 Exammples on conditional statements
 
+
+-----------------------------
+Day 12:
+Date: 20th Dec 2024
+-----------------------------
+Ternary Operators
+
 ------------
 Assignments:
 ------------
@@ -384,3 +391,8 @@ a.	If sales>= 25000 then 10% is allowed other wise 5% discount is allowed.
        4    >=300                 	Rs. 5.00 PU     Rs.7.50 PU
 
 24.  WAP to accept marks of c, cpp, java and calculate total, average, class only if the student passes in all the 3 subjects otherwise display the subject in which he is failed and  message as “no grade”.
+
+25. Write a Program to find biggest of 2 nos using ternary operators
+26. Write a Program to check whether the inputted no is even or odd
+    - using arithmetic operator and comparison operators
+    - using arithmetic operator
