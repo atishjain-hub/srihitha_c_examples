@@ -402,3 +402,14 @@ a.	If sales>= 25000 then 10% is allowed other wise 5% discount is allowed.
 26. Write a Program to check whether the inputted no is even or odd
     - using arithmetic operator and comparison operators
     - using arithmetic operator
+
+27. Create a menu Program using switch-case
+main - menu
+-----------
+1. Adding of Two nos
+2. Swapping of Two nos
+3. Even or Odd Checking
+4. Biggest of two numbers
+5. Exit
+
+Enter ur Choice:
