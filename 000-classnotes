@@ -313,6 +313,26 @@ Date: 26th Dec 2024
 -----------------------------
 switch-case examples
 
+Day 14:
+------
+Date: 27th Dec 2024
+-----------------------------
+loops/iterations/repetitions
+
+count controlled
+ - for
+
+condition controlled
+ - while
+ - do while
+
+----------------------
+entry check
+ - while
+ - do
+
+exit check
+ - dowhile
 ------------
 Assignments:
 ------------
@@ -413,3 +433,10 @@ main - menu
 5. Exit
 
 Enter ur Choice:
+--------------------
+
+28. write a program to print natural numbers from 1 to 100 using all the 3 loops
+29. write a program to print even nos till N using all the 3 loops
+30. write a program to print odd nos from N to 1
+31. write a program to print sum of the first 10 natural numbers
+32. write a program to print a multiplication table from any given to no to any target no.
