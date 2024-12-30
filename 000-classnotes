@@ -440,3 +440,18 @@ Enter ur Choice:
 30. write a program to print odd nos from N to 1
 31. write a program to print sum of the first 10 natural numbers
 32. write a program to print a multiplication table from any given to no to any target no.
+
+----------
+33. Write a Program to find sum of digits
+    ex: 123 
+    output: 6
+34. Write a Program to reverse the inputted no
+    ex: 123
+    output: 321
+35. Write a Program to find maximum and minimum of inputted N Numbers
+36. Write a Program to find 2nd highest no from the inputted 10 numbers
+37. write a program to find factorial of inputted no
+38. write a program to check whether the inputted 3 digit no is armstrong or   not.
+    ex: 153
+    1+125+27 = 153
+    
