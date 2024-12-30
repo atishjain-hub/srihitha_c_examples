@@ -333,6 +333,15 @@ entry check
 
 exit check
  - dowhile
+
+Day 15:
+------
+Date: 30th Dec 2024
+-----------------------------
+Examples on while and do...while
+Nested loops
+Pattern printing
+
 ------------
 Assignments:
 ------------
