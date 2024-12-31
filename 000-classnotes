@@ -342,6 +342,7 @@ Examples on while and do...while
 Nested loops
 Pattern printing
 
+<<<<<<< HEAD
 
 Day 16:
 =======
@@ -353,6 +354,8 @@ fabocancii series
 1 1 2 3 5 8 13 21 34...100
 
 ------------
+=======
+>>>>>>> fb956d7cfb712a29e9272f053f7e3bf386e0b627
 Assignments:
 ------------
 1.Write a C Program to Display Your Current Address
@@ -451,6 +454,11 @@ main - menu
 4. Biggest of two numbers
 5. Exit
 
+<<<<<<< HEAD
+=======
+
+=======
+>>>>>>> fb956d7cfb712a29e9272f053f7e3bf386e0b627
 Enter ur Choice:
 --------------------
 
@@ -473,9 +481,12 @@ Enter ur Choice:
 38. write a program to check whether the inputted 3 digit no is armstrong or   not.
     ex: 153
     1+125+27 = 153
+<<<<<<< HEAD
 
 39. Write a Program to check whether the inputted no is palindrome or not
     ex: 1221
 
 40. Write a Program to print prime numbers till 100
 
+=======
+>>>>>>> fb956d7cfb712a29e9272f053f7e3bf386e0b627
