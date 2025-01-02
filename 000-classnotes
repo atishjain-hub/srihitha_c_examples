@@ -353,9 +353,40 @@ Prime numbers checking
 fabocancii series
 1 1 2 3 5 8 13 21 34...100
 
-------------
+
+Day 17:
 =======
->>>>>>> fb956d7cfb712a29e9272f053f7e3bf386e0b627
+Date: 1st Jan 2025
+--------------------
+program to find 2nd highest no
+
+Pattern printing
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+Day 18:
+=======
+Date: 2nd Jan 2025
+--------------------
+int s1,s2,s3;
+
+12 * 4 = 48
+Write a C program to read marks of all subjects of an university student
+48+1+1 = 50 variables
+
+tot=s1+s2+s3....s48
+avg=tot/48
+
+Arrays:
+What is an Array?
+An array is a variable which can store multiple values of same datatype in consequite memory locations.
+
+int subjects[10];
+
+------------
 Assignments:
 ------------
 1.Write a C Program to Display Your Current Address
@@ -454,11 +485,7 @@ main - menu
 4. Biggest of two numbers
 5. Exit
 
-<<<<<<< HEAD
-=======
 
-=======
->>>>>>> fb956d7cfb712a29e9272f053f7e3bf386e0b627
 Enter ur Choice:
 --------------------
 
@@ -481,12 +508,38 @@ Enter ur Choice:
 38. write a program to check whether the inputted 3 digit no is armstrong or   not.
     ex: 153
     1+125+27 = 153
-<<<<<<< HEAD
 
 39. Write a Program to check whether the inputted no is palindrome or not
     ex: 1221
 
 40. Write a Program to print prime numbers till 100
 
-=======
->>>>>>> fb956d7cfb712a29e9272f053f7e3bf386e0b627
+41. write a program to print armstrong nos from 100 to 1000
+
+42. write a program to keep on reading characters from the user till the user
+    enters X, and display count vowels and consonents.
+
+43. Pattern 1:
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+44. Pattern 2:
+1
+2 2
+3 3 3 
+4 4 4 4
+5 5 5 5 5
+
+45. write a program to print the lucky no from the dob:
+    ex: 12011980 = 4
+    
+
+46. write a Program to read an array of 10 elements, and count
+even nos and odd numbers
+
+47. write a program to fill the array of 10 elements 
+    odd rows with even nos
+    even rows with odd nos
