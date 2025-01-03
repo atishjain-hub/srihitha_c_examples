@@ -386,6 +386,19 @@ An array is a variable which can store multiple values of same datatype in conse
 
 int subjects[10];
 
+Day 19:
+=======
+Date: 3rd Jan 2025
+--------------------
+What is Random Number Generation?
+
+Fill the array of 10 elements with random numbers below 100
+
+Searching:
+---------
+locating for an element in the array of N elements
+
+
 ------------
 Assignments:
 ------------
@@ -543,3 +556,7 @@ even nos and odd numbers
 47. write a program to fill the array of 10 elements 
     odd rows with even nos
     even rows with odd nos
+
+48. write a program to search for an element in the array of N Elements.
+    if the elmenet is avaialble at multiple locations then print its index.
+    
