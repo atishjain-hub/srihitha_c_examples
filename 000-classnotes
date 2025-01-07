@@ -398,6 +398,14 @@ Searching:
 ---------
 locating for an element in the array of N elements
 
+Day 20:
+=======
+Date: 7th Jan 2025
+
+O(1) - Constant Time: The algorithm's running time does not depend on the size of the input; it performs a fixed number of operations. 
+O(n) - complexity signifies that the algorithms execution time increases in a fashion as the input size grows.
+
+
 
 ------------
 Assignments:
