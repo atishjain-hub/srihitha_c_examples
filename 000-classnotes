@@ -405,6 +405,12 @@ Date: 7th Jan 2025
 O(1) - Constant Time: The algorithm's running time does not depend on the size of the input; it performs a fixed number of operations. 
 O(n) - complexity signifies that the algorithms execution time increases in a fashion as the input size grows.
 
+Day 21:
+=======
+Date: 8th Jan 2025
+
+int s[8][6];
+
 
 
 ------------
@@ -568,3 +574,7 @@ even nos and odd numbers
 48. write a program to search for an element in the array of N Elements.
     if the elmenet is avaialble at multiple locations then print its index.
     
+
+49. Write a Program to fill the array of 5*6 matrix with random numbers and search for an element.
+
+50. write a program to perform matrix multiplication on 3*3 array
