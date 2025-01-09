@@ -411,6 +411,25 @@ Date: 8th Jan 2025
 
 int s[8][6];
 
+Day 22:
+=======
+Date: 9th Jan 2025
+
+What is an Array?
+Array is an varaible which holds multiple values of same datatype.
+Arrays are of two types:
+1. numeric
+2. character (strings)
+
+Arrays are declared in two ways:
+1. single dimension
+2. multi dimension
+
+ex:
+char s[20];
+
+101 102 103 104 105
+r a j e s h \0
 
 
 ------------
@@ -578,3 +597,20 @@ even nos and odd numbers
 49. Write a Program to fill the array of 5*6 matrix with random numbers and search for an element.
 
 50. write a program to perform matrix multiplication on 3*3 array
+
+51. write a program to copy one string to anohter string
+    char str1[20],str2[20];
+
+52. write a program to read a string with spaces, and count no of words from it.
+ex: this is to test
+output: 4
+
+53. write a program to read a string and count no of uppercase letters, lowercase letters, digits and special characters.
+
+input: Hello@123
+output:
+Uppercase letters: 1
+lowercase letters: 4
+Digits: 3
+Special symbols: 1
+
