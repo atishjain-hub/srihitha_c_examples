@@ -431,6 +431,18 @@ char s[20];
 101 102 103 104 105
 r a j e s h \0
 
+Day 23:
+=======
+Date: 10th Jan 2025
+
+Write a Program to Convert the string into propercase
+
+Multi dimensional character arrays:
+
+char name[20];
+
+char name[10][20];
+
 
 ------------
 Assignments:
@@ -613,4 +625,14 @@ Uppercase letters: 1
 lowercase letters: 4
 Digits: 3
 Special symbols: 1
+
+54. Write a Program to check whether the inputted string palindrome or not
+    ex: madam, liril, racecar, mom, dad, nitin
+
+55. write a program to convert the inputted string to zigzag case
+
+56. write a program to read password and retype password, check for the lengths if lengths are equal then check for the similirity.
+
+57. Write a Program to Read names of 10 students, and display all the lengthiest names.
+
 
