@@ -444,6 +444,12 @@ char name[20];
 char name[10][20];
 
 
+Day 24:
+=======
+Date: 18th Jan 2025
+
+Functions in C Language
+
 ------------
 Assignments:
 ------------
@@ -634,5 +640,12 @@ Special symbols: 1
 56. write a program to read password and retype password, check for the lengths if lengths are equal then check for the similirity.
 
 57. Write a Program to Read names of 10 students, and display all the lengthiest names.
+
+58. Write a Program to check whether the inputted String is palindrome or not using functions
+ex:
+step 1: read str1
+step 2: copy str1 to str2 - strcpy
+step 3: reverse str2 - strrev
+step 4: compare str1 and str2 - strcmp
 
 
