@@ -382,7 +382,7 @@ avg=tot/48
 
 Arrays:
 What is an Array?
-An array is a variable which can store multiple values of same datatype in consequite memory locations.
+An array is a variable that can store multiple values of the same datatype in consecutive memory locations.
 
 int subjects[10];
 
@@ -423,7 +423,7 @@ Arrays are of two types:
 
 Arrays are declared in two ways:
 1. single dimension
-2. multi dimension
+2. multi-dimension
 
 ex:
 char s[20];
@@ -457,6 +457,11 @@ sort it in ascending order
 display
 sort it in descending order
 display
+
+Day 25:
+=======
+Date: 27th Jan 2025
+Examples on functions
 
 ------------
 Assignments:
@@ -657,3 +662,6 @@ step 3: reverse str2 - strrev
 step 4: compare str1 and str2 - strcmp
 
 
+59. Write a Program to calculate the amount for the inputted rate & qty using functions.
+    Note: Rate should be in decimals
+60. write a program to read marks of java,CPP & Python and calculate Total & Avg using Functions
