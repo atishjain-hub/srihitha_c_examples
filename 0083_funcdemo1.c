@@ -5,6 +5,7 @@ int main()
     printf("Welcome to Coding Career Academy\n");
     display(); //func call
     printf("Back to main");
+    display();
     return 0;
 }
 
