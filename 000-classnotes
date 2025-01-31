@@ -478,6 +478,10 @@ Day 28:
 Date: 30th Jan 2025
 Pointers
 
+Day 29:
+=======
+Date: 31st Jan 2025
+Pointers Examples
 ------------
 Assignments:
 ------------
@@ -680,3 +684,13 @@ step 4: compare str1 and str2 - strcmp
 59. Write a Program to calculate the amount for the inputted rate & qty using functions.
     Note: Rate should be in decimals
 60. write a program to read marks of java,CPP & Python and calculate Total & Avg using Functions
+
+61.Write a program to read an string and display it character by character using functions and pointers
+ex:
+input:   Srihitha
+output:
+908 - S
+909 - r
+....
+
+
