@@ -482,6 +482,22 @@ Day 29:
 =======
 Date: 31st Jan 2025
 Pointers Examples
+
+Day 30:
+=======
+Date: 1st Feb 2025
+Introduction to Strucutres
+
+int age;
+
+int age[2000];
+
+Student Details:
+Name
+Address
+age
+average
+
 ------------
 Assignments:
 ------------
